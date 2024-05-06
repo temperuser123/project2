@@ -1,0 +1,27 @@
+[
+    {
+        "category": "Meditation",
+        "statistic": "65% of adults who practice meditation report reduced stress levels.",
+        "source": "American Psychological Association"
+    },
+    {
+        "category": "Breathing Exercises",
+        "statistic": "Research shows that deep breathing exercises can lower blood pressure and promote relaxation.",
+        "source": "National Institutes of Health"
+    },
+    {
+        "category": "Stress Management",
+        "statistic": "Regular physical activity reduces the risk of developing symptoms of stress and anxiety.",
+        "source": "Harvard Health Publishing"
+    },
+    {
+        "category": "Mindfulness",
+        "statistic": "A study found that mindfulness-based interventions can significantly reduce symptoms of anxiety and depression.",
+        "source": "Journal of the American Medical Association"
+    },
+    {
+        "category": "Social Support",
+        "statistic": "Having a strong support network of friends and family can help lower stress levels and improve overall well-being.",
+        "source": "National Alliance on Mental Illness"
+    }
+]
